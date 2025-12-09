@@ -32,6 +32,9 @@ Caso você queira ver uma versão para evoluir passo a passo, veja a visualizado
 Caso você não queira ver a de onívoros, analise o terceiro arquivo
 
 ## Vídeo do projeto:
+https://youtu.be/nM49SIMN3bg?si=QNjFP5OYj8zR1n3w
+
+
 
 
 
