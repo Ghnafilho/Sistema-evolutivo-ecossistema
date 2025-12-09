@@ -27,6 +27,9 @@ O código atual apresenta 3 versões:
 A primeira é mais visual, utiliza a espécie de carnívoros que se alimentam exclusivamente de peixes e imprime na tela todas as rodadas de movimentos dos animais de todas as gerações;
 As outras duas apresentam somente as rodadas da última geração escolhida e uma versão é com o onívaro e outra com o carnívoro de peixes.
 
+Caso você queira ver uma versão comentada, analise a evolutivos_onivoros.py
+Caso você queira ver uma versão para evoluir passo a passo, veja a visualizador.py
+Caso você não queira ver a de onívoros, analise o terceiro arquivo
 
 ## Vídeo do projeto:
 
